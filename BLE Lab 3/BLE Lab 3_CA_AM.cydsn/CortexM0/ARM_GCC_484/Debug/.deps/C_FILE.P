@@ -1,0 +1,104 @@
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/CortexM0/ARM_GCC_484/Debug/main.o : C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/ADC.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/ADC_IRQ.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/ADC_intClock.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/BLE.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/BLE_HAL_PVT.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/BLE_STACK_PVT.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/BLE_Stack.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/BLE_StackGap.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/BLE_StackGatt.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/BLE_StackGattClient.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/BLE_StackGattDb.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/BLE_StackGattServer.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/BLE_StackHostMain.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/BLE_StackL2cap.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/BLE_bless_isr.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/BLE_dis.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/BLE_eventHandler.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/BLE_gatt.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/BLE_hrs.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/Button_output.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/Button_output_aliases.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/CyFlash.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/CyLFClk.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/CyLib.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/Heart_Rate_input.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/Heart_Rate_input_aliases.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/Led_Advertising_Green.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/Led_Advertising_Green_aliases.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/Led_Connected_Blue.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/Led_Connected_Blue_aliases.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/Opamp.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/SW2_Switch.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/SW2_Switch_aliases.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/Wakeup_ISR.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/core_cm0.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/core_cm0_psoc4.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/core_cmFunc.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/core_cmInstr.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/cyPm.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/cydisabledsheets.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/cyfitter.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/cypins.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/cytypes.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/project.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/BleProcessing.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/HeartRateProcessing.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/WatchdogTimer.h C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/main.c C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/main.h 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/ADC.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/ADC_IRQ.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/ADC_intClock.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/BLE.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/BLE_HAL_PVT.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/BLE_STACK_PVT.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/BLE_Stack.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/BLE_StackGap.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/BLE_StackGatt.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/BLE_StackGattClient.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/BLE_StackGattDb.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/BLE_StackGattServer.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/BLE_StackHostMain.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/BLE_StackL2cap.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/BLE_bless_isr.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/BLE_dis.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/BLE_eventHandler.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/BLE_gatt.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/BLE_hrs.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/Button_output.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/Button_output_aliases.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/CyFlash.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/CyLFClk.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/CyLib.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/Heart_Rate_input.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/Heart_Rate_input_aliases.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/Led_Advertising_Green.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/Led_Advertising_Green_aliases.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/Led_Connected_Blue.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/Led_Connected_Blue_aliases.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/Opamp.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/SW2_Switch.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/SW2_Switch_aliases.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/Wakeup_ISR.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/core_cm0.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/core_cm0_psoc4.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/core_cmFunc.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/core_cmInstr.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/cyPm.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/cydevice_trm.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/cydisabledsheets.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/cyfitter.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/cypins.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/cytypes.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/Generated_Source/PSoC4/project.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/BleProcessing.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/HeartRateProcessing.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/WatchdogTimer.h : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/main.c : 
+
+C:/PSoC/BLE\ Lab\ 3/BLE\ Lab\ 3_CA_AM.cydsn/main.h : 
+

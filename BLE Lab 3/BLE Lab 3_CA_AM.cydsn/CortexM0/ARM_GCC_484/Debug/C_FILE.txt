@@ -1,0 +1,1 @@
+'C:\PSoC\BLE Lab 3\BLE Lab 3_CA_AM.cydsn\main.c' -o .o -T C_FILE -I 'C:\PSoC\BLE Lab 3\BLE Lab 3_CA_AM.cydsn' -I 'C:\PSoC\BLE Lab 3\BLE Lab 3_CA_AM.cydsn\Generated_Source\PSoC4' -f 'C:\PSoC\BLE Lab 3\BLE Lab 3_CA_AM.cydsn\CortexM0\ARM_GCC_484\Debug\.deps\C_FILE.d'
