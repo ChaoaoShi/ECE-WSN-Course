@@ -1,0 +1,5 @@
+E:\2016.05.27_BLE\Final\Client and Server-Central.cydsn\Client and Server-Central.cyprj|2c06bfc9-9dd5-4039-ba01-c7ddc9ee31de
+C:\Program Files (x86)\Cypress\PSoC Creator\3.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|f5b87380-7f1b-45b6-a05e-29868a54046b
+C:\Program Files (x86)\Cypress\PSoC Creator\3.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|3d1c8da0-28bf-4a27-9506-fa9fa8082855
+C:\Program Files (x86)\Cypress\PSoC Creator\3.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|ead85e37-66fc-4b51-a822-7e38233403e6
+C:\Program Files (x86)\Cypress\PSoC Creator\3.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|2db2aade-b2b4-48ab-89c7-694cb4127d5b

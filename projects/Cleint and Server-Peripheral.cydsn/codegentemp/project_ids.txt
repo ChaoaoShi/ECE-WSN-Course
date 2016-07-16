@@ -1,0 +1,5 @@
+E:\2016.05.27_BLE\Final\Cleint and Server-Peripheral.cydsn\Cleint and Server-Peripheral.cyprj|bdca6809-5463-47fb-b54e-4eee5d89148f
+C:\Program Files (x86)\Cypress\PSoC Creator\3.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|d770e8bf-795d-40b4-a6b0-cfea623817e0
+C:\Program Files (x86)\Cypress\PSoC Creator\3.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|b690875e-a1a4-40f4-a376-6743e56317eb
+C:\Program Files (x86)\Cypress\PSoC Creator\3.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|bc0f44c2-f99a-434e-a5d6-bec0671d895a
+C:\Program Files (x86)\Cypress\PSoC Creator\3.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|e23e3e32-4899-4984-b490-0373f756f383

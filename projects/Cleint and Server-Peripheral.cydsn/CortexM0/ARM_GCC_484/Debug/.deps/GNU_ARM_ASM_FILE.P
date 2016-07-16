@@ -1,0 +1,8 @@
+E:/2016.05.27_BLE/Final/Cleint\ and\ Server-Peripheral.cydsn/CortexM0/ARM_GCC_484/Debug/CyBootAsmGnu.o : E:/2016.05.27_BLE/Final/Cleint\ and\ Server-Peripheral.cydsn/Generated_Source/PSoC4/CyBootAsmGnu.s E:/2016.05.27_BLE/Final/Cleint\ and\ Server-Peripheral.cydsn/Generated_Source/PSoC4/cydevicegnu_trm.inc E:/2016.05.27_BLE/Final/Cleint\ and\ Server-Peripheral.cydsn/Generated_Source/PSoC4/cyfittergnu.inc 
+
+E:/2016.05.27_BLE/Final/Cleint\ and\ Server-Peripheral.cydsn/Generated_Source/PSoC4/CyBootAsmGnu.s : 
+
+E:/2016.05.27_BLE/Final/Cleint\ and\ Server-Peripheral.cydsn/Generated_Source/PSoC4/cydevicegnu_trm.inc : 
+
+E:/2016.05.27_BLE/Final/Cleint\ and\ Server-Peripheral.cydsn/Generated_Source/PSoC4/cyfittergnu.inc : 
+
